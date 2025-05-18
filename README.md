@@ -40,7 +40,7 @@ O projeto está disponível em um notebook Google Colab para fácil acesso e exe
 
 Clone o Repositório:
 
-git clone [https://github.com/Pri-Farias/Agente_Analista.git]
+git clone https://github.com/Pri-Farias/Agente_Analista.git
 
 Abra no Colab: Carregue o arquivo .ipynb.
 

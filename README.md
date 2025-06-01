@@ -1,4 +1,4 @@
-✨ Agente de IA Multi-Agente para Análise de Dados em Empresas 📊🦆
+✨ Agente de IA Multi-Agente para Análise de Dados em Empresas 📊
 
 
 Desafio: Transformar dados complexos em insights acionáveis de forma rápida e eficiente para empresas.
